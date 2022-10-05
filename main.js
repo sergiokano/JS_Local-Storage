@@ -43,6 +43,9 @@ const inputMessage = document.getElementById('Message');
 // }
 // submitInfo.addEventListener('click',saveUser)
 
+// **************
+//  Como dato me ha faltado hacer una lista, tendría que haberlo resuelto insertando los datos en una lista con li 
+// **************
 
 // 2. Extra ------------------
 // Guardar en Local Storage los datos de contacto enviados de cada usuario (ir guardandolos todos)
